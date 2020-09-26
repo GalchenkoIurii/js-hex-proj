@@ -1,1 +1,1 @@
-# js-hex-proj
+# First Hex JS project
