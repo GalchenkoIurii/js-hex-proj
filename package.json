@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GalchenkoIurii/js-hex-proj/issues"
   },
-  "homepage": "https://github.com/GalchenkoIurii/js-hex-proj#readme"
+  "homepage": "https://github.com/GalchenkoIurii/js-hex-proj#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
